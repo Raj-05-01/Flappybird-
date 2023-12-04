@@ -7,7 +7,7 @@
  # Video Tutorial
 
  # Technologies
-    - Python
-    - pygame
-    - 
+   - Python
+   - pygame
+   - 
    
