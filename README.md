@@ -5,7 +5,8 @@
    1. clone the repo
    2. Run flappy_bird.py in your IDE.
    3. Install the repositories
-      
+      pip install pygame
+      pip install neat-python
 
  # Video Tutorial
 
