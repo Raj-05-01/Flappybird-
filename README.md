@@ -1,5 +1,5 @@
 # Flappybird-
-   An Artifical intelligence to teach itself how to self learn how to play the game.The game uses neat python algorithm to teach itself using reinforcement learning. 
+   An Artifical intelligence to teach itself how to self learn how to play the game.The game uses neat python algorithm to teach itself using reinforcement learning. NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates artificial neural networks. 
 
 # Instructions to run 
    1. clone the repo
